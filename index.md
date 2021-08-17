@@ -51,18 +51,28 @@
 
 ---
 
-**形式重塑 Form Reformed**
+**香港中环 | 形式重塑 Form Reformed**
+
+城市肌理不是一个长久静态的系统，自下而上的力量让它时刻处于动态重塑之中。
+The urban pattern is not a statistic system, but a dynamic one with bottom-up modifications.
+
 
 <img src="images/HongKong.png?raw=true"/>
 
 ---
 
-**青老共生 Age Remixed**
+**深圳 | 青老共生 Age Remixed**
+
+深圳，一座属于年轻人的城市，那老人们去了哪里呢？
+Do not let them live in a heterotopia waiting for death.
 
 <img src="images/aged.png?raw=true"/>
 ---
 
-**边界重生 Boundary Revitalized**
+**深圳二线关 | 边界重生 Boundary Revitalized**
+
+边缘没有方向，但边界有。
+Edges have no directions, but boundaries do.
 
 <img src="images/secondaryboundary.png?raw=true"/>
 ---
