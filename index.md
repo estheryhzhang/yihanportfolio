@@ -5,8 +5,21 @@
 ### 研究项目 Research Projects
 
 ---
+**基于空间和环境因素的芝加哥机动车盗窃犯罪热点分析及预测**
 
-**阿姆斯特丹Airbnb租金和全年收入预测作为政府决策辅助工具**
+（合作者：Jessica Greene）
+
+[点击查看详细内容](/projects/Geospatial Prediction of Motor Vehicle Theft in Chicago City.html) 
+
+在美国长期偏颇的执法过程中，逐渐形成了系统性的种族歧视问题。在芝加哥的所有财产类犯罪中，机动车盗窃的黑人白人被捕率之比最高。虽然我们获得的犯罪数据和各类报告已经受到了种族歧视执法的影响，但我们仍希望通过更为客观的数据来进行犯罪预测，从而避免黑人群体因为“充满偏见的数据”而根本不被执法系统善待。
+
+在Jane Jacobs的论述中，街道之眼让社区更安全。糟糕的环境（而非黑人群聚）更容易成为犯罪发生的场所。在本次研究中，我们通过风险报告数据（311 reports，报告包括废弃车辆、废弃建筑、涂鸦、损坏的路灯等）和POI数据（修车铺、停车场和路边停车点、酒水贩卖点等）作为影响因子，判断其与机动车盗窃犯罪热点的空间联系。通过回归分析，我们预测了机动车盗窃案发生风险较高的街区所在位置，以此为警力分配提供参考。
+
+<img src="images/chicagopic1.png?raw=true"/>
+
+---
+
+**作为政府决策辅助工具的阿姆斯特丹Airbnb全年收入预测**
 
 （合作者：Haoheng Tang）
 
@@ -19,17 +32,6 @@
 受到旅游淡旺季的影响，Airbnb住宅的租金价格和租出时长在全年的不同时间里不尽相同。我们的Airbnb全年收入预测由两部分组成：一是预测每个月的租金价格；二是预测每个月的空置率。我们使用房价预测模型Hedonic Model来综合考虑不同要素对租金和空置率的影响，包括：住宅的物理特征（房间类型、房间数量、设施等）、空间特征（到地铁站、景点、超市的距离等）和空间集聚效应。
 
 <img src="images/amsterdam.png?raw=true"/>
-
----
-**基于空间和环境因素的芝加哥机动车盗窃犯罪热点分析及预测**
-
-（合作者：Jessica Greene）
-
-[点击查看详细内容](/projects/Geospatial Prediction of Motor Vehicle Theft in Chicago City.html) 
-
-通过环境因素分析芝加哥机动车犯罪产生的原因及其聚集趋势 
-
-<img src="images/chicagopic1.png?raw=true"/>
 
 ---
 **波士顿共享单车时空分布分析及预测**
@@ -55,10 +57,7 @@
 
 （合作者：Shupei Zhang）
 
-「香港中环」
-
-城市肌理不是一个长久静态的系统，自下而上的力量让它时刻处于动态重塑之中。\n
-The urban pattern is not a statistic system, but a dynamic one with bottom-up modifications.
+「香港中环」城市肌理不是一个长久静态的系统，自下而上的力量让它时刻处于动态重塑之中。
 
 
 <img src="images/HongKong.png?raw=true"/>
@@ -69,10 +68,7 @@ The urban pattern is not a statistic system, but a dynamic one with bottom-up mo
 
 （Individual Work)
 
-「深圳」
-
-一座属于年轻人的城市，那老人们去了哪里呢？\n
-Do not let them live in a heterotopia waiting for death.
+「深圳」一座属于年轻人的城市，那老人们去了哪里呢？
 
 <img src="images/aged.png?raw=true"/>
 
@@ -82,10 +78,7 @@ Do not let them live in a heterotopia waiting for death.
 
 (合作者：Yixin Peng)
 
-「深圳二线关」
-
-边缘没有方向，但边界有。\n
-Edges have no directions, but boundaries do.
+「深圳二线关」边缘没有方向，但边界有
 
 <img src="images/secondaryboundary.png?raw=true"/>
 
