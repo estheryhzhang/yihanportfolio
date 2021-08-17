@@ -9,12 +9,14 @@
 
 ---
 **基于空间和环境因素的芝加哥机动车盗窃犯罪热点分析及预测**
-[点击查看详细内容](/projects/Geospatial%20Prediction%20of%20Motor%20Vehicle%20Theft%20in%20Chicago%20City.html) 
+
+(/projects/Geospatial%20Prediction%20of%20Motor%20Vehicle%20Theft%20in%20Chicago%20City.html) 
 
 通过环境因素分析芝加哥机动车犯罪产生的原因及其聚集趋势 <img src="images/chicagopic1.png?raw=true"/>
 
 ---
 **波士顿共享单车时空分布分析及预测**
+
 [点击查看详细内容](/projects/Bikeshare.html)
 
 通过时空分析
