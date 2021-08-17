@@ -57,7 +57,7 @@
 
 「香港中环」
 
-城市肌理不是一个长久静态的系统，自下而上的力量让它时刻处于动态重塑之中。
+城市肌理不是一个长久静态的系统，自下而上的力量让它时刻处于动态重塑之中。\n
 The urban pattern is not a statistic system, but a dynamic one with bottom-up modifications.
 
 
@@ -71,7 +71,7 @@ The urban pattern is not a statistic system, but a dynamic one with bottom-up mo
 
 「深圳」
 
-一座属于年轻人的城市，那老人们去了哪里呢？
+一座属于年轻人的城市，那老人们去了哪里呢？\n
 Do not let them live in a heterotopia waiting for death.
 
 <img src="images/aged.png?raw=true"/>
@@ -84,7 +84,7 @@ Do not let them live in a heterotopia waiting for death.
 
 「深圳二线关」
 
-边缘没有方向，但边界有。
+边缘没有方向，但边界有。\n
 Edges have no directions, but boundaries do.
 
 <img src="images/secondaryboundary.png?raw=true"/>
