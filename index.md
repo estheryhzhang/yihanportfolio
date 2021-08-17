@@ -4,7 +4,11 @@
 
 ### 研究项目 Research Projects
 
+---
+
 **阿姆斯特丹Airbnb租金和全年收入预测作为政府决策辅助工具**
+
+（合作者：Haoheng Tang）
 
 [项目介绍视频](https://www.bilibili.com/video/bv1a64y1q74s)（时长4:20）
 
@@ -12,10 +16,14 @@
 
 阿姆斯特丹作为全球最热门的旅游城市之一，每年需要为大量游客提供短期住宿。改造房屋、加入Airbnb为居民和城市带来了可观的收入，同时也引起了租金上涨、社区环境被破坏等一系列的冲突。自2020年起，居民需要提交政府审批，才能够将自家房屋改为Airbnb出租。我们希望通过算法预测住宅改为Airbnb住宅后所能为城市带来的收入，以及税收返还于社区后能够带来的改变，收集社区居民意见以辅助政府决策。政府将基于税收预测、居民投票和意见反馈，做出公众参与的决定。
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+受到旅游淡旺季的影响，Airbnb住宅的租金价格和租出时长在全年的不同时间里不尽相同。我们的Airbnb全年收入预测由两部分组成：一是预测每个月的租金价格；二是预测每个月的空置率。我们使用房价预测模型Hedonic Model来综合考虑不同要素对租金和空置率的影响，包括：住宅的物理特征（房间类型、房间数量、设施等）、空间特征（到地铁站、景点、超市的距离等）和空间集聚效应。
+
+<img src="images/amsterdam.png?raw=true"/>
 
 ---
 **基于空间和环境因素的芝加哥机动车盗窃犯罪热点分析及预测**
+
+（合作者：Jessica Greene）
 
 [点击查看详细内容](/projects/Geospatial%20Prediction%20of%20Motor%20Vehicle%20Theft%20in%20Chicago%20City.html) 
 
@@ -23,6 +31,8 @@
 
 ---
 **波士顿共享单车时空分布分析及预测**
+
+（合作者：Jessica Greene, Brian Rawn）
 
 [点击查看详细内容](/projects/Bikeshare.html)
 
