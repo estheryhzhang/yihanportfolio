@@ -49,12 +49,22 @@
 
 ### 设计作品 Design Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---
 
+**形式重塑 Form Reformed**
+
+<img src="images/HongKong.png?raw=true"/>
+
+---
+
+**青老共生 Age Remixed**
+
+<img src="images/aged.png?raw=true"/>
+---
+
+**边界重生 Boundary Revitalized**
+
+<img src="images/secondaryboundary.png?raw=true"/>
 ---
 
 ### 翻译文章 Translations
